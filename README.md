@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @prateekgandhi718
 - 👀 I’m interested in web development and data science.
-- 🌱 I’m currently learning javaScript.
 - 📫 How to reach me - Visit my website prateekgandhi.in
 
 <!---
