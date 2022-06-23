@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prateekgandhi718
-- 👀 I’m interested in web development and data science.
+- 👀 I’m a cloud developer. 
 - 📫 How to reach me - prateekgandhi718@gmail.com
 
 <!---
