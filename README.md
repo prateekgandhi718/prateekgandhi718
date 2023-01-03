@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prateekgandhi718
+- 👋 Hi, I’m Prateek Gandhi
 - 👀 I’m a cloud developer. 
 - 📫 How to reach me - prateekgandhi718@gmail.com
 
